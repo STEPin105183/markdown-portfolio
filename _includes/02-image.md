@@ -1,1 +1,1 @@
-![Image of dog](https://www.google.com/search?q=dog&rlz=1C1CHZL_enIN807IN809&hl=en&sxsrf=ALeKk00N8PiZnw8vqYvPuwJzCGf4XDdqOQ:1596554021115&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjJ_Kua64HrAhVMOSsKHeFqAgsQ_AUoAXoECB0QAw&biw=1536&bih=722#imgrc=v_7Cp6T1vfFlXM)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
